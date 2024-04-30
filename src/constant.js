@@ -8,9 +8,11 @@ export const dialogueData = {
     "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
     I also like to post about my tech life on Linkedin. check out to <a href="https://www.linkedin.com/in/rudra-kumar-897264227/" target="_blank">my profile</a>! (let's connect)
     I also like to play video games like Valorant too!`,
-    tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-     <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-    <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
+   tv: `That's my TV. I've been watching tech youtubers a lot recently, but I'm also working on some cool projects:
+    <a href="https://github.com/rudra016/PolymathAI-Rag" target="_blank">Polymath AI</a>,
+    <a href="https://github.com/rudra016/DealDropper-WebScraper" target="_blank">DealDropper</a>,
+    <a href="https://github.com/rudra016/Xcrypto-reactJs-chakraUi" target="_blank">Crypto Tracker</a>, and
+    <a href="https://github.com/rudra016/WebDev-OpenSource" target="_blank">Web-D Open Source</a>.`,
     bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to code it down or else I won't be able to sleep because my mental energy is consumed by it.`,
     resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1AX0o3IzDVjzCVRWQVj_TFTnb-VcoqsB8/view" target="_blank">Check it out?</a>
     Contact me at rudra619kumar@gmail.com if you have any interesting job opportunities!`,
