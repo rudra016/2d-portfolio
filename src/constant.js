@@ -9,12 +9,12 @@ export const dialogueData = {
     I also like to post about my tech life on Linkedin. check out to <a href="https://www.linkedin.com/in/rudra-kumar-897264227/" target="_blank">my profile</a>! (let's connect)
     I also like to play video games like Valorant too!`,
    tv: `That's my TV. I've been watching tech youtubers a lot recently, but I'm also working on some cool projects:
-    <a href="https://github.com/rudra016/PolymathAI-Rag" target="_blank">Polymath AI</a>,
+    <a href="https://github.com/rudra016/FluxForm" target="_blank">FLUX FORM</a>,
     <a href="https://github.com/rudra016/DealDropper-WebScraper" target="_blank">DealDropper</a>,
     <a href="https://github.com/rudra016/Xcrypto-reactJs-chakraUi" target="_blank">Crypto Tracker</a>, and
     <a href="https://github.com/rudra016/WebDev-OpenSource" target="_blank">Web-D Open Source</a>.`,
     bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to code it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-    resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1IfXhVY615V9bLH6fBtvarpligsjuU19r/view?usp=drivesdk" target="_blank">Check it out?</a>
+    resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1nWoLPt8jFEYCr79NorPi052YOb68wola/view?usp=sharing" target="_blank">Check it out?</a>
     Contact me at rudra619kumar@gmail.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
     Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Check out my others projects <a href="https://github.com/rudra016" target="_blank">here</a>.`,
